@@ -1,8 +1,8 @@
 algoritmo "semnome"
-// Função :
+// Funcao :
 // Autor :
 // Data : 20/09/2023
-// Seção de Declarações 
+// Secao de Declaracoes 
 var
    celsius:inteiro
    kelvin:real
@@ -14,7 +14,7 @@ inicio
       kelvin<-273
       fahrenheit<-1.8+32
       soma_kelvin<-celsius+kelvin
-      escreval("o resultado de soma_kelvin é:")
+      escreval("o resultado de soma_kelvin ï¿½:")
       equacao_fahrenheit<-celsius*fahrenheit
-      escreva("o resultado de equacao_fahrenheit é:")
+      escreva("o resultado de equacao_fahrenheit ï¿½:")
 fimalgoritmo
