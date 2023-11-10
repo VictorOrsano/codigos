@@ -1,0 +1,16 @@
+
+
+EX7alg3: leia três números e exiba-os em ordem crescente
+
+EX10alg1: leia e soma todos os numeros, escrito com o "ENQUANTO" 
+EX10alg2: leia número e escreva todos os numeros impares, até o numero usando o"ENQUANTO"
+EX10alg3: leia 5 numeros e exibe o numero maior com o "ENQUANTO"
+
+EX11alg1: escreva se o numero é primo usando o "enquanto" 
+(corrigido)
+
+EX11alg2: O programa da boas vindas para "N" pessoas perguntando os nomes e sexo, 
+ao final informe a quantidade de homens e mulheres, usando "REPITA"
+
+EX11alg3: leia um número do usuário e exiba a soma dos números de um
+até esse número.
